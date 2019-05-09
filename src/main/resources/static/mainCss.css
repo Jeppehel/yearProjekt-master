@@ -1,0 +1,12 @@
+body{
+    font-family: "PT Sans", sans-serif;
+    margin-bottom: 100px;
+}
+
+nav{
+    text-decoration: none;
+    color: white
+}
+.card{
+margin-top: 10px;
+}
